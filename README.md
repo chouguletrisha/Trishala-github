@@ -1,2 +1,2 @@
 # Trishala-github
-My git-hub for learning
+My git-hub repository for learning
